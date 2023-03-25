@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "PKLMtest"]
+	path = PKLMtest
+	url = https://github.com/cran/PKLMtest
+	shallow = true
+	registered = true
